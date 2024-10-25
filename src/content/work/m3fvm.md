@@ -1,14 +1,14 @@
 ---
-title: Test 01
+title: m3fvm
 publishDate: 2024-10-25 00:00:00
-img: /assets/stock-2.jpg
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img: /assets/m3fvm.jpg
+img_alt: m3fvm written on a background with fireworks
 description: |
   We paired with a cutting-edge music API and a team of horticulturalists
   to build AI-generated playlists that maximize houseplant health.
 tags:
   - Dev
-  - Branding
+  - Open-source
   - Backend
 ---
 
